@@ -1,3 +1,13 @@
+You Need To Download these tools btw : 
+httprobe
+wayback by :tomnomnom
+assetfinder by : tomnomnom
+amass
+subjack 
+
+
+
+
 #!/bin/bash	
 url=$1
 if [ ! -d "$url" ];then
