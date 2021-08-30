@@ -4,10 +4,7 @@ wayback by :tomnomnom
 assetfinder by : tomnomnom
 amass
 subjack 
-
-
-
-
+<---------------------Script------------------------>
 #!/bin/bash	
 url=$1
 if [ ! -d "$url" ];then
